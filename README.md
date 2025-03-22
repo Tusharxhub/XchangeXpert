@@ -3,7 +3,7 @@
 
 # 🌍💸 **XchangeXpert** – Smart & Instant Currency Exchange  
 
-![XchangeXpert Logo](https://source.unsplash.com/1600x500/?money,finance,technology)  
+![XchangeXpert Logo](https://github.com/Tusharxhub/XchangeXpert/blob/main/Logo.png?raw=true)  
 
 🔄 **XchangeXpert** is a **React-powered, real-time currency exchange** platform designed to provide accurate exchange rates with a sleek UI & smooth performance.  
 
