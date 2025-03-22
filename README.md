@@ -1,3 +1,4 @@
+Here's your updated README with the **live link** included! 🚀🔥  
 
 ---
 
@@ -10,6 +11,11 @@
 💰 **Convert Currencies Instantly, Securely & Effortlessly!**  
 
 🚀 **Built for Performance. Designed for Simplicity.**  
+
+---
+
+## 🚀 **Live Demo**  
+🔗 **Try it now:** [XchangeXpert](https://xchange-xpert-sepia.vercel.app/)  
 
 ---
 
@@ -34,11 +40,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
 
 📡 **API Integration:** Exchange Rate APIs  
-
----
-
-## 🎥 **Live Demo**  
-🚧 *Coming Soon... Stay Tuned!*  
 
 ---
 
@@ -87,3 +88,5 @@ http://localhost:3000
 ---
 
 🔥 **XchangeXpert – A Smarter Way to Exchange!** 🔥  
+
+Let me know if you need any more tweaks! 🚀
