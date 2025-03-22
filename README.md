@@ -1,4 +1,3 @@
-Since **XchangeXpert** is a React web application, here’s a fully optimized, **eye-catching README** with a React-oriented focus! 🚀🔥  
 
 ---
 
